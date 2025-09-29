@@ -144,12 +144,6 @@ chmod +x batch_simulations.sh
 
 ---
 
-## 📜 License
-
-MIT License — free for research, teaching, and modification.
-
----
-
 ## 👨‍💻 Author
 
-Developed as part of **green computing and VM consolidation research**. Contributions welcome!
+Developed as part of **Cloud Architecture Design Project**. Contributions welcome!
