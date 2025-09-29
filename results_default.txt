@@ -1,0 +1,1 @@
+{'energy_kwh_total': 0.0, 'migrations_total': 0, 'hosts_off_final': 0, 'util_mean_final': 1.035, 'util_p95_final': 1.7416, 'hi_watermark_breaches': 24, 'final_target_util': 0.7}
